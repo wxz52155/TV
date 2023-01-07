@@ -2,12 +2,14 @@
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "鸭奈飞",
   "主页url": "https://yanetflix.com",
+  "请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54",
   
-  "分类": "电影&连续剧&综艺&动漫",
-  "分类值": "dianying&lianxuju&zongyi&dongman",
+  "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
   
   "分类url": "https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
+  "二次截取": "<div class=\"module-items&&<div id=\"page\">",
+  "数组": "<a&&</a>",
   "副标题": "module-item-note\">&&</div>",
   
   "搜索模式": "1",

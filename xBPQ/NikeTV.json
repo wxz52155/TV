@@ -8,6 +8,7 @@
   
   "分类url": "https://www.ajeee.com/show/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
   
+  "二次截取": "<div class=\"module-items&&<div id=\"page\">",
   "标题": "alt=\"&&\"",
   "副标题": "module-item-note\">&&</div>",
   
